@@ -1,0 +1,17 @@
+h1,p {
+  text-align: center;
+}
+
+.box{
+  display:inline-block;
+  margin:10px;
+}
+
+
+.cardImage{
+  width:300px;
+  height:200px;
+  text-align: center;
+  padding:15px;
+  padding-top:5px;
+}
