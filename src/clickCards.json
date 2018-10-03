@@ -3,48 +3,48 @@
 
         "letter":"A",
         "clicked": false,
-        "image":"public/assets/images/1.JPG"
+        "image":"./assets/images/1.jpg"
     },
     {
 
         "letter":"B",
         "clicked": false,
-        "image":"public/assets/images/2.JPG"
+        "image":"./assets/images/2.jpg"
     },
     {
 
         "letter":"C",
         "clicked": false,
-        "image":"public/assets/images/3.JPG"
+        "image":"./assets/images/3.jpg"
     },
     {
 
         "letter":"D",
         "clicked": false,
-        "image":"public/assets/images/4.JPG"
+        "image":"./assets/images/4.jpg"
     },
     {
 
         "letter":"E",
         "clicked": false,
-        "image":"public/assets/images/5.JPG"
+        "image":"./assets/images/5.jpg"
     },
     {
 
         "letter":"F",
         "clicked": false,
-        "image":"public/assets/images/6.JPG"
+        "image":"./assets/images/6.jpg"
     },
     {
 
         "letter":"G",
         "clicked": false,
-        "image":"public/assets/images/7.JPG"
+        "image":"./assets/images/7.jpg"
     },
     {
 
         "letter":"H",
         "clicked": false,
-        "image":"public/assets/images/8.JPG"
+        "image":"./assets/images/8.jpg"
     }
 ]
